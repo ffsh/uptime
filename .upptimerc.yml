@@ -6,8 +6,12 @@ repo: uptime # Your Github repository name
 sites:
   - name: Website
     url: https://freifunk-suedholstein.de
-  - name: FFSH Map
+  - name: Map
     url: https://map.freifunk-suedholstein.de
+  - name: Firmware
+    url: https://firmware.freifunk-suedholstein.de
+  - name: Installer
+    url: https://install.freifunk-suedholstein.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
