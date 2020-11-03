@@ -5,14 +5,30 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 1225
+    "time": 1163
   },
   {
-    "name": "FFSH Map",
+    "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
-    "slug": "ffsh-map",
+    "slug": "map",
     "status": "up",
     "uptime": "100.00",
-    "time": 1133
+    "time": 1158
+  },
+  {
+    "name": "Firmware",
+    "url": "https://firmware.freifunk-suedholstein.de",
+    "slug": "firmware",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1111
+  },
+  {
+    "name": "Installer",
+    "url": "https://install.freifunk-suedholstein.de",
+    "slug": "installer",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 904
   }
 ]
