@@ -6,7 +6,7 @@ repo: uptime # Your Github repository name
 sites:
   - name: Website
     url: https://freifunk-suedholstein.de
-  - name: Map
+  - name: FFSH Map
     url: https://map.freifunk-suedholstein.de
 
 status-website:
