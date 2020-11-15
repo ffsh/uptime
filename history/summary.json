@@ -5,7 +5,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00",
-    "time": 968
+    "time": 966
   },
   {
     "name": "Map",
@@ -13,7 +13,7 @@
     "slug": "map",
     "status": "up",
     "uptime": "100.00",
-    "time": 890
+    "time": 881
   },
   {
     "name": "Firmware",
@@ -21,7 +21,7 @@
     "slug": "firmware",
     "status": "up",
     "uptime": "100.00",
-    "time": 759
+    "time": 753
   },
   {
     "name": "Installer",
@@ -29,6 +29,6 @@
     "slug": "installer",
     "status": "up",
     "uptime": "100.00",
-    "time": 700
+    "time": 697
   }
 ]
