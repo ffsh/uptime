@@ -1,7 +1,7 @@
 - url: https://install.freifunk-suedholstein.de
-- status: down
+- status: up
 - code: 200
-- responseTime: 586
-- lastUpdated: 2020-11-19T06:49:27.859Z
+- responseTime: 580
+- lastUpdated: 2020-11-19T06:57:00.347Z
 - startTime: 2020-11-03T20:45:25.873Z
 - generator: Upptime <https://github.com/upptime/upptime>
