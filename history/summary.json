@@ -3,7 +3,7 @@
     "name": "Website",
     "url": "https://freifunk-suedholstein.de",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 928
   },
@@ -11,15 +11,15 @@
     "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
     "slug": "map",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 903
+    "time": 900
   },
   {
     "name": "Firmware",
     "url": "https://firmware.freifunk-suedholstein.de",
     "slug": "firmware",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 715
   },
@@ -27,8 +27,8 @@
     "name": "Installer",
     "url": "https://install.freifunk-suedholstein.de",
     "slug": "installer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 656
+    "time": 652
   }
 ]
