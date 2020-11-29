@@ -11,9 +11,9 @@
     "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
     "slug": "map",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "time": 889
+    "time": 859
   },
   {
     "name": "Firmware",
