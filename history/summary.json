@@ -5,15 +5,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.96%",
-    "time": 926
+    "time": 927
   },
   {
     "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
     "slug": "map",
     "status": "up",
-    "uptime": "99.88%",
-    "time": 856
+    "uptime": "99.89%",
+    "time": 854
   },
   {
     "name": "Firmware",
@@ -28,7 +28,7 @@
     "url": "https://install.freifunk-suedholstein.de",
     "slug": "installer",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "time": 647
   }
 ]
