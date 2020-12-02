@@ -20,7 +20,7 @@
     "url": "https://firmware.freifunk-suedholstein.de",
     "slug": "firmware",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "time": 707
   },
   {
@@ -29,6 +29,6 @@
     "slug": "installer",
     "status": "up",
     "uptime": "99.97%",
-    "time": 647
+    "time": 646
   }
 ]
