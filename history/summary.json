@@ -9,26 +9,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 955,
-    "timeDay": 935,
+    "time": 954,
+    "timeDay": 929,
     "timeWeek": 934,
-    "timeMonth": 955,
-    "timeYear": 955
+    "timeMonth": 943,
+    "timeYear": 954
   },
   {
     "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
     "slug": "map",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 879,
-    "timeDay": 839,
+    "timeDay": 867,
     "timeWeek": 833,
-    "timeMonth": 879,
+    "timeMonth": 870,
     "timeYear": 879
   },
   {
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 728,
-    "timeDay": 703,
-    "timeWeek": 686,
-    "timeMonth": 728,
-    "timeYear": 728
+    "time": 725,
+    "timeDay": 635,
+    "timeWeek": 689,
+    "timeMonth": 714,
+    "timeYear": 725
   },
   {
     "name": "Installer",
@@ -58,9 +58,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 663,
-    "timeDay": 577,
-    "timeWeek": 610,
-    "timeMonth": 663,
+    "timeDay": 667,
+    "timeWeek": 609,
+    "timeMonth": 656,
     "timeYear": 663
   }
 ]
