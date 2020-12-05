@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 954,
-    "timeDay": 929,
-    "timeWeek": 934,
-    "timeMonth": 943,
-    "timeYear": 954
+    "time": 953,
+    "timeDay": 923,
+    "timeWeek": 933,
+    "timeMonth": 945,
+    "timeYear": 953
   },
   {
     "name": "Map",
@@ -25,11 +25,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 879,
-    "timeDay": 867,
-    "timeWeek": 833,
+    "time": 876,
+    "timeDay": 786,
+    "timeWeek": 823,
     "timeMonth": 870,
-    "timeYear": 879
+    "timeYear": 876
   },
   {
     "name": "Firmware",
@@ -42,8 +42,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 725,
-    "timeDay": 635,
-    "timeWeek": 689,
+    "timeDay": 706,
+    "timeWeek": 690,
     "timeMonth": 714,
     "timeYear": 725
   },
@@ -57,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 663,
-    "timeDay": 667,
+    "time": 661,
+    "timeDay": 581,
     "timeWeek": 609,
-    "timeMonth": 656,
-    "timeYear": 663
+    "timeMonth": 653,
+    "timeYear": 661
   }
 ]
