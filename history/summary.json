@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 953,
-    "timeDay": 923,
-    "timeWeek": 933,
-    "timeMonth": 945,
-    "timeYear": 953
+    "time": 951,
+    "timeDay": 905,
+    "timeWeek": 928,
+    "timeMonth": 943,
+    "timeYear": 951
   },
   {
     "name": "Map",
@@ -25,11 +25,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 876,
-    "timeDay": 786,
-    "timeWeek": 823,
+    "time": 875,
+    "timeDay": 817,
+    "timeWeek": 825,
     "timeMonth": 870,
-    "timeYear": 876
+    "timeYear": 875
   },
   {
     "name": "Firmware",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 725,
-    "timeDay": 706,
+    "time": 724,
+    "timeDay": 698,
     "timeWeek": 690,
-    "timeMonth": 714,
-    "timeYear": 725
+    "timeMonth": 713,
+    "timeYear": 724
   },
   {
     "name": "Installer",
@@ -57,10 +57,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 661,
-    "timeDay": 581,
-    "timeWeek": 609,
-    "timeMonth": 653,
-    "timeYear": 661
+    "time": 659,
+    "timeDay": 584,
+    "timeWeek": 607,
+    "timeMonth": 652,
+    "timeYear": 659
+  },
+  {
+    "name": "Mail",
+    "url": "https://mail.freifunk-suedholstein.de",
+    "slug": "mail",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 790,
+    "timeDay": 790,
+    "timeWeek": 790,
+    "timeMonth": 790,
+    "timeYear": 790
   }
 ]
