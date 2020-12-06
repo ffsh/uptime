@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 951,
-    "timeDay": 905,
-    "timeWeek": 928,
-    "timeMonth": 943,
-    "timeYear": 951
+    "time": 949,
+    "timeDay": 882,
+    "timeWeek": 921,
+    "timeMonth": 944,
+    "timeYear": 949
   },
   {
     "name": "Map",
@@ -25,11 +25,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 875,
-    "timeDay": 817,
-    "timeWeek": 825,
-    "timeMonth": 870,
-    "timeYear": 875
+    "time": 874,
+    "timeDay": 845,
+    "timeWeek": 827,
+    "timeMonth": 871,
+    "timeYear": 874
   },
   {
     "name": "Firmware",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 724,
-    "timeDay": 698,
-    "timeWeek": 690,
-    "timeMonth": 713,
-    "timeYear": 724
+    "time": 723,
+    "timeDay": 688,
+    "timeWeek": 689,
+    "timeMonth": 712,
+    "timeYear": 723
   },
   {
     "name": "Installer",
@@ -58,9 +58,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 659,
-    "timeDay": 584,
-    "timeWeek": 607,
-    "timeMonth": 652,
+    "timeDay": 621,
+    "timeWeek": 614,
+    "timeMonth": 651,
     "timeYear": 659
   },
   {
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 790,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742
   }
 ]
