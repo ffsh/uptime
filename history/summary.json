@@ -2,6 +2,7 @@
   {
     "name": "Website",
     "url": "https://freifunk-suedholstein.de",
+    "icon": "https://favicons.githubusercontent.com/freifunk-suedholstein.de",
     "slug": "website",
     "status": "up",
     "uptime": "99.97%",
@@ -9,31 +10,40 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 949,
-    "timeDay": 882,
-    "timeWeek": 921,
-    "timeMonth": 944,
-    "timeYear": 949
+    "time": 947,
+    "timeDay": 864,
+    "timeWeek": 913,
+    "timeMonth": 942,
+    "timeYear": 947,
+    "dailyMinutesDown": {
+      "2020-11-19": 15
+    }
   },
   {
     "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
+    "icon": "https://favicons.githubusercontent.com/map.freifunk-suedholstein.de",
     "slug": "map",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 874,
-    "timeDay": 845,
-    "timeWeek": 827,
+    "timeDay": 856,
+    "timeWeek": 835,
     "timeMonth": 871,
-    "timeYear": 874
+    "timeYear": 874,
+    "dailyMinutesDown": {
+      "2020-11-29": 37,
+      "2020-11-19": 8
+    }
   },
   {
     "name": "Firmware",
     "url": "https://firmware.freifunk-suedholstein.de",
+    "icon": "https://favicons.githubusercontent.com/firmware.freifunk-suedholstein.de",
     "slug": "firmware",
     "status": "up",
     "uptime": "99.97%",
@@ -41,15 +51,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 723,
-    "timeDay": 688,
-    "timeWeek": 689,
+    "time": 722,
+    "timeDay": 686,
+    "timeWeek": 688,
     "timeMonth": 712,
-    "timeYear": 723
+    "timeYear": 722,
+    "dailyMinutesDown": {
+      "2020-11-19": 15
+    }
   },
   {
     "name": "Installer",
     "url": "https://install.freifunk-suedholstein.de",
+    "icon": "https://favicons.githubusercontent.com/install.freifunk-suedholstein.de",
     "slug": "installer",
     "status": "up",
     "uptime": "99.97%",
@@ -57,15 +71,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 659,
-    "timeDay": 621,
-    "timeWeek": 614,
-    "timeMonth": 651,
-    "timeYear": 659
+    "time": 657,
+    "timeDay": 594,
+    "timeWeek": 617,
+    "timeMonth": 649,
+    "timeYear": 657,
+    "dailyMinutesDown": {
+      "2020-11-19": 14
+    }
   },
   {
     "name": "Mail",
     "url": "https://mail.freifunk-suedholstein.de",
+    "icon": "https://favicons.githubusercontent.com/mail.freifunk-suedholstein.de",
     "slug": "mail",
     "status": "up",
     "uptime": "100.00%",
@@ -73,10 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 742,
-    "timeDay": 742,
-    "timeWeek": 742,
-    "timeMonth": 742,
-    "timeYear": 742
+    "time": 757,
+    "timeDay": 788,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
+    "dailyMinutesDown": {}
   }
 ]
