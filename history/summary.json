@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 944,
-    "timeDay": 896,
-    "timeWeek": 896,
-    "timeMonth": 927,
+    "timeDay": 967,
+    "timeWeek": 900,
+    "timeMonth": 930,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2020-11-19": 15
@@ -25,14 +25,14 @@
     "icon": "https://favicons.githubusercontent.com/map.freifunk-suedholstein.de",
     "slug": "map",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 870,
-    "timeDay": 850,
-    "timeWeek": 831,
+    "timeDay": 863,
+    "timeWeek": 834,
     "timeMonth": 856,
     "timeYear": 870,
     "dailyMinutesDown": {
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 721,
-    "timeDay": 688,
-    "timeWeek": 688,
+    "time": 720,
+    "timeDay": 700,
+    "timeWeek": 687,
     "timeMonth": 706,
-    "timeYear": 721,
+    "timeYear": 720,
     "dailyMinutesDown": {
       "2020-11-19": 15
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 653,
-    "timeDay": 563,
+    "time": 652,
+    "timeDay": 577,
     "timeWeek": 601,
-    "timeMonth": 634,
-    "timeYear": 653,
+    "timeMonth": 631,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2020-11-19": 14
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 691,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 732,
+    "timeDay": 715,
+    "timeWeek": 732,
+    "timeMonth": 732,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   }
 ]
