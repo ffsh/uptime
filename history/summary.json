@@ -24,9 +24,9 @@
     "url": "https://map.freifunk-suedholstein.de",
     "icon": "https://favicons.githubusercontent.com/map.freifunk-suedholstein.de",
     "slug": "map",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
@@ -36,6 +36,7 @@
     "timeMonth": 843,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2020-12-18": 0,
       "2020-11-29": 37,
       "2020-11-19": 8
     }
