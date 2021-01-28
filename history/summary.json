@@ -4,9 +4,9 @@
     "url": "https://freifunk-suedholstein.de",
     "icon": "https://favicons.githubusercontent.com/freifunk-suedholstein.de",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 921,
     "timeYear": 931,
     "dailyMinutesDown": {
+      "2021-01-28": 0,
       "2021-01-20": 23,
       "2020-11-19": 15
     }
