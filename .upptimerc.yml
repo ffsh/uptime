@@ -14,6 +14,8 @@ sites:
     url: https://install.freifunk-suedholstein.de
   - name: Mail
     url: https://mail.freifunk-suedholstein.de
+  - name: Freitrix: webchat
+    url: https://webchat.freitrix.de
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
