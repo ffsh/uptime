@@ -133,17 +133,17 @@
     "url": "https://freitrix.de/_matrix/client/versions",
     "icon": "https://favicons.githubusercontent.com/freitrix.de",
     "slug": "freitrix-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 487,
-    "timeWeek": 585,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 566,
+    "timeDay": 485,
+    "timeWeek": 573,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   }
 ]
