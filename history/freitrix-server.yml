@@ -1,7 +1,7 @@
 url: https://freitrix.de/_matrix/client/versions
-status: down
-code: 502
-responseTime: 476
-lastUpdated: 2021-09-10T07:30:53.171Z
+status: up
+code: 200
+responseTime: 946
+lastUpdated: 2021-09-10T07:41:06.091Z
 startTime: Wed Mar 17 2021 13:53:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
