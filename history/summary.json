@@ -76,9 +76,9 @@
     "url": "https://mail.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 841,
     "timeMonth": 933,
     "timeYear": 933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "Freitrix element app",
