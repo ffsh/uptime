@@ -96,10 +96,10 @@
     "url": "https://webchat.freitrix.de",
     "icon": "https://icons.duckduckgo.com/ip3/webchat.freitrix.de.ico",
     "slug": "freitrix-element-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 918,
@@ -107,16 +107,18 @@
     "timeWeek": 790,
     "timeMonth": 918,
     "timeYear": 918,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 1
+    }
   },
   {
     "name": "Freitrix server",
     "url": "https://freitrix.de/_matrix/client/versions",
     "icon": "https://icons.duckduckgo.com/ip3/freitrix.de.ico",
     "slug": "freitrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +127,8 @@
     "timeWeek": 686,
     "timeMonth": 880,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 0
+    }
   }
 ]
