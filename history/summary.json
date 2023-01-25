@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/freifunk-suedholstein.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1261,
     "timeDay": 5741,
     "timeWeek": 2387,
     "timeMonth": 1544,
     "timeYear": 1261,
-    "dailyMinutesDown": {
-      "2023-01-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Map",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/map.freifunk-suedholstein.de.ico",
     "slug": "map",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 921,
     "timeDay": 1001,
     "timeWeek": 1034,
     "timeMonth": 948,
     "timeYear": 921,
-    "dailyMinutesDown": {
-      "2023-01-25": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Firmware",
@@ -45,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmware.freifunk-suedholstein.de.ico",
     "slug": "firmware",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 806,
     "timeDay": 859,
     "timeWeek": 851,
     "timeMonth": 818,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 14
     }
   },
   {
@@ -65,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 792,
     "timeDay": 678,
     "timeWeek": 785,
     "timeMonth": 799,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 14
     }
   },
   {
@@ -84,19 +80,19 @@
     "url": "https://mail.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 956,
-    "timeDay": 1075,
-    "timeWeek": 1036,
-    "timeMonth": 982,
+    "timeDay": 1011,
+    "timeWeek": 1026,
+    "timeMonth": 980,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
+      "2023-01-25": 13,
       "2022-10-28": 15
     }
   },
@@ -127,19 +123,19 @@
     "url": "https://freitrix.de/_matrix/client/versions",
     "icon": "https://icons.duckduckgo.com/ip3/freitrix.de.ico",
     "slug": "freitrix-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
-    "time": 953,
-    "timeDay": 620,
-    "timeWeek": 930,
-    "timeMonth": 1043,
-    "timeYear": 953,
+    "time": 951,
+    "timeDay": 665,
+    "timeWeek": 910,
+    "timeMonth": 1035,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 9,
       "2023-01-24": 20,
       "2022-11-14": 19
     }
