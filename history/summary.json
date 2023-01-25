@@ -4,10 +4,10 @@
     "url": "https://freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/freifunk-suedholstein.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1177,
@@ -15,17 +15,19 @@
     "timeWeek": 1284,
     "timeMonth": 1268,
     "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "Map",
     "url": "https://map.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/map.freifunk-suedholstein.de.ico",
     "slug": "map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 922,
@@ -33,7 +35,9 @@
     "timeWeek": 1060,
     "timeMonth": 951,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Firmware",
@@ -58,19 +62,19 @@
     "url": "https://install.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 865,
-    "timeWeek": 827,
-    "timeMonth": 809,
-    "timeYear": 795,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 792,
+    "timeDay": 678,
+    "timeWeek": 785,
+    "timeMonth": 799,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 11
     }
   },
   {
