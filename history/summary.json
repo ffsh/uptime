@@ -102,10 +102,10 @@
     "url": "https://webchat.freitrix.de",
     "icon": "https://icons.duckduckgo.com/ip3/webchat.freitrix.de.ico",
     "slug": "freitrix-element-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1109,
@@ -114,6 +114,7 @@
     "timeMonth": 1218,
     "timeYear": 1109,
     "dailyMinutesDown": {
+      "2023-02-25": 1,
       "2023-01-24": 20,
       "2022-11-15": 28,
       "2022-11-14": 20
