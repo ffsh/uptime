@@ -13,10 +13,6 @@ sites:
     url: https://install.freifunk-suedholstein.de
   - name: Mail
     url: https://mail.freifunk-suedholstein.de
-  - name: Freitrix element app
-    url: https://webchat.freitrix.de
-  - name: Freitrix server
-    url: https://freitrix.de/_matrix/client/versions
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
