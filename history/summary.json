@@ -82,18 +82,19 @@
     "url": "https://mail.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 1060,
-    "timeWeek": 924,
-    "timeMonth": 948,
-    "timeYear": 981,
+    "time": 980,
+    "timeDay": 955,
+    "timeWeek": 915,
+    "timeMonth": 945,
+    "timeYear": 980,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2022-10-28": 15
     }
   }
