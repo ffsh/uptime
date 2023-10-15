@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1222,
-    "timeDay": 1292,
-    "timeWeek": 1083,
-    "timeMonth": 1138,
-    "timeYear": 1222,
+    "time": 1221,
+    "timeDay": 974,
+    "timeWeek": 1053,
+    "timeMonth": 1126,
+    "timeYear": 1221,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "map",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 932,
-    "timeDay": 848,
-    "timeWeek": 833,
-    "timeMonth": 882,
-    "timeYear": 932,
-    "dailyMinutesDown": {
-      "2023-10-14": 9
-    }
+    "time": 931,
+    "timeDay": 762,
+    "timeWeek": 805,
+    "timeMonth": 873,
+    "timeYear": 931,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Firmware",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 810,
-    "timeDay": 880,
-    "timeWeek": 725,
-    "timeMonth": 756,
-    "timeYear": 810,
+    "time": 809,
+    "timeDay": 667,
+    "timeWeek": 711,
+    "timeMonth": 748,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2023-01-26": 602,
       "2023-01-25": 890
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 799,
-    "timeDay": 876,
-    "timeWeek": 722,
-    "timeMonth": 764,
+    "timeDay": 667,
+    "timeWeek": 707,
+    "timeMonth": 756,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2023-01-26": 602,
@@ -91,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 976,
-    "timeDay": 936,
-    "timeWeek": 881,
-    "timeMonth": 961,
+    "timeDay": 833,
+    "timeWeek": 868,
+    "timeMonth": 952,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2022-10-28": 15
