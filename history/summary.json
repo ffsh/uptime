@@ -4,18 +4,20 @@
     "url": "https://freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/freifunk-suedholstein.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1217,
     "timeDay": 1097,
     "timeWeek": 1105,
-    "timeMonth": 1139,
+    "timeMonth": 1131,
     "timeYear": 1222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "Map",
@@ -31,7 +33,7 @@
     "time": 930,
     "timeDay": 770,
     "timeWeek": 841,
-    "timeMonth": 888,
+    "timeMonth": 885,
     "timeYear": 932,
     "dailyMinutesDown": {}
   },
@@ -40,18 +42,19 @@
     "url": "https://firmware.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/firmware.freifunk-suedholstein.de.ico",
     "slug": "firmware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 806,
     "timeDay": 672,
     "timeWeek": 700,
-    "timeMonth": 752,
+    "timeMonth": 748,
     "timeYear": 807,
     "dailyMinutesDown": {
+      "2023-11-05": 0,
       "2023-01-26": 602,
       "2023-01-25": 890
     }
@@ -61,18 +64,19 @@
     "url": "https://install.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 797,
     "timeDay": 669,
     "timeWeek": 709,
-    "timeMonth": 756,
+    "timeMonth": 752,
     "timeYear": 797,
     "dailyMinutesDown": {
+      "2023-11-05": 0,
       "2023-01-26": 602,
       "2023-01-25": 889
     }
@@ -91,7 +95,7 @@
     "time": 973,
     "timeDay": 835,
     "timeWeek": 853,
-    "timeMonth": 954,
+    "timeMonth": 906,
     "timeYear": 974,
     "dailyMinutesDown": {}
   }
