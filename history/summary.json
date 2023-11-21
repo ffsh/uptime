@@ -22,9 +22,9 @@
     "url": "https://map.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/map.freifunk-suedholstein.de.ico",
     "slug": "map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 897,
     "timeMonth": 924,
     "timeYear": 936,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-21": 0
+    }
   },
   {
     "name": "Firmware",
