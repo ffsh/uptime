@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1221,
-    "timeDay": 1615,
-    "timeWeek": 1293,
-    "timeMonth": 1259,
-    "timeYear": 1209,
+    "timeDay": 994,
+    "timeWeek": 1276,
+    "timeMonth": 1237,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 930,
-    "timeDay": 1185,
-    "timeWeek": 995,
-    "timeMonth": 963,
-    "timeYear": 931,
+    "timeDay": 760,
+    "timeWeek": 977,
+    "timeMonth": 946,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmware.freifunk-suedholstein.de.ico",
     "slug": "firmware",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 807,
-    "timeDay": 1126,
+    "time": 806,
+    "timeDay": 664,
     "timeWeek": 874,
-    "timeMonth": 829,
+    "timeMonth": 814,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 795,
-    "timeDay": 1121,
-    "timeWeek": 875,
-    "timeMonth": 815,
-    "timeYear": 795,
+    "timeDay": 664,
+    "timeWeek": 872,
+    "timeMonth": 805,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 972,
-    "timeDay": 1350,
-    "timeWeek": 1059,
-    "timeMonth": 982,
-    "timeYear": 971,
+    "timeDay": 819,
+    "timeWeek": 1039,
+    "timeMonth": 970,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
