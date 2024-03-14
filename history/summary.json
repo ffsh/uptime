@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1223,
-    "timeDay": 949,
-    "timeWeek": 1099,
-    "timeMonth": 1169,
-    "timeYear": 1201,
+    "timeDay": 957,
+    "timeWeek": 1095,
+    "timeMonth": 1149,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 930,
-    "timeDay": 761,
-    "timeWeek": 837,
-    "timeMonth": 898,
-    "timeYear": 924,
+    "timeDay": 755,
+    "timeWeek": 838,
+    "timeMonth": 880,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmware.freifunk-suedholstein.de.ico",
     "slug": "firmware",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 805,
-    "timeDay": 659,
-    "timeWeek": 717,
-    "timeMonth": 788,
-    "timeYear": 798,
+    "time": 804,
+    "timeDay": 656,
+    "timeWeek": 720,
+    "timeMonth": 772,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 792,
-    "timeDay": 677,
-    "timeWeek": 707,
-    "timeMonth": 775,
+    "time": 793,
+    "timeDay": 651,
+    "timeWeek": 709,
+    "timeMonth": 759,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 975,
-    "timeDay": 832,
-    "timeWeek": 888,
-    "timeMonth": 946,
+    "timeDay": 810,
+    "timeWeek": 889,
+    "timeMonth": 928,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2023-12-18": 28
