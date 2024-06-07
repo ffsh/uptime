@@ -64,9 +64,9 @@
     "url": "https://install.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +76,7 @@
     "timeMonth": 846,
     "timeYear": 789,
     "dailyMinutesDown": {
+      "2024-06-07": 0,
       "2023-12-18": 28
     }
   },
