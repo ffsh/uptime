@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1203,
-    "timeDay": 995,
-    "timeWeek": 1147,
-    "timeMonth": 1192,
-    "timeYear": 1199,
+    "time": 1204,
+    "timeDay": 1453,
+    "timeWeek": 1173,
+    "timeMonth": 1189,
+    "timeYear": 1201,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 909,
-    "timeDay": 659,
-    "timeWeek": 800,
-    "timeMonth": 808,
+    "timeDay": 955,
+    "timeWeek": 798,
+    "timeMonth": 803,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 804,
-    "timeDay": 568,
-    "timeWeek": 783,
-    "timeMonth": 817,
-    "timeYear": 797,
+    "timeDay": 1109,
+    "timeWeek": 793,
+    "timeMonth": 816,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -66,17 +66,16 @@
     "slug": "installer",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 794,
-    "timeDay": 732,
-    "timeWeek": 774,
-    "timeMonth": 846,
-    "timeYear": 789,
+    "time": 795,
+    "timeDay": 966,
+    "timeWeek": 803,
+    "timeMonth": 848,
+    "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-06-07": 6,
       "2023-12-18": 28
     }
   },
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 809,
-    "timeWeek": 961,
-    "timeMonth": 980,
-    "timeYear": 960,
+    "time": 969,
+    "timeDay": 1338,
+    "timeWeek": 976,
+    "timeMonth": 984,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
