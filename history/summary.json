@@ -4,18 +4,19 @@
     "url": "https://freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/freifunk-suedholstein.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1205,
+    "time": 1204,
     "timeDay": 1503,
     "timeWeek": 1223,
     "timeMonth": 1206,
     "timeYear": 1202,
     "dailyMinutesDown": {
+      "2024-06-09": 0,
       "2023-12-18": 28
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://map.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/map.freifunk-suedholstein.de.ico",
     "slug": "map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 813,
     "timeYear": 899,
     "dailyMinutesDown": {
+      "2024-06-09": 0,
       "2023-12-18": 28
     }
   },
@@ -44,18 +46,19 @@
     "url": "https://firmware.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/firmware.freifunk-suedholstein.de.ico",
     "slug": "firmware",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 804,
+    "time": 805,
     "timeDay": 863,
     "timeWeek": 805,
     "timeMonth": 823,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2024-06-09": 0,
       "2023-12-18": 28
     }
   },
@@ -64,9 +67,9 @@
     "url": "https://install.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +79,7 @@
     "timeMonth": 855,
     "timeYear": 791,
     "dailyMinutesDown": {
+      "2024-06-09": 0,
       "2023-12-18": 28
     }
   },
@@ -84,19 +88,19 @@
     "url": "https://mail.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 877,
-    "timeWeek": 967,
-    "timeMonth": 983,
-    "timeYear": 962,
+    "time": 971,
+    "timeDay": 1506,
+    "timeWeek": 1166,
+    "timeMonth": 1034,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2024-06-09": 0,
+      "2024-06-09": 7,
       "2023-12-18": 28
     }
   }
