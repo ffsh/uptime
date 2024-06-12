@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1217,
-    "timeDay": 924,
-    "timeWeek": 2094,
-    "timeMonth": 1393,
+    "timeDay": 1347,
+    "timeWeek": 2127,
+    "timeMonth": 1386,
     "timeYear": 1220,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 907,
-    "timeDay": 639,
-    "timeWeek": 864,
-    "timeMonth": 804,
-    "timeYear": 899,
+    "timeDay": 912,
+    "timeWeek": 881,
+    "timeMonth": 798,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 805,
-    "timeDay": 637,
-    "timeWeek": 847,
-    "timeMonth": 805,
+    "timeDay": 901,
+    "timeWeek": 865,
+    "timeMonth": 798,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 796,
-    "timeDay": 831,
-    "timeWeek": 871,
-    "timeMonth": 849,
+    "timeDay": 962,
+    "timeWeek": 891,
+    "timeMonth": 844,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -85,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 972,
-    "timeDay": 797,
-    "timeWeek": 1200,
-    "timeMonth": 1018,
+    "timeDay": 1114,
+    "timeWeek": 1232,
+    "timeMonth": 1011,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2023-12-18": 28
