@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1219,
-    "timeDay": 1215,
-    "timeWeek": 1311,
-    "timeMonth": 1279,
-    "timeYear": 1229,
+    "time": 1220,
+    "timeDay": 1519,
+    "timeWeek": 1386,
+    "timeMonth": 1291,
+    "timeYear": 1230,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 888,
-    "timeDay": 780,
-    "timeWeek": 873,
-    "timeMonth": 847,
+    "timeDay": 893,
+    "timeWeek": 905,
+    "timeMonth": 850,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 804,
-    "timeDay": 681,
-    "timeWeek": 855,
-    "timeMonth": 826,
+    "timeDay": 926,
+    "timeWeek": 890,
+    "timeMonth": 830,
     "timeYear": 807,
     "dailyMinutesDown": {
       "2023-12-18": 28
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 796,
-    "timeDay": 775,
-    "timeWeek": 862,
-    "timeMonth": 835,
-    "timeYear": 800,
+    "time": 797,
+    "timeDay": 1052,
+    "timeWeek": 918,
+    "timeMonth": 844,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-12-18": 28
     }
@@ -85,18 +85,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 973,
-    "timeDay": 788,
-    "timeWeek": 964,
-    "timeMonth": 1004,
-    "timeYear": 977,
+    "time": 974,
+    "timeDay": 925,
+    "timeWeek": 1004,
+    "timeMonth": 1014,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2024-09-01": 7,
       "2023-12-18": 28
     }
   }
