@@ -4,19 +4,19 @@
     "url": "https://freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/freifunk-suedholstein.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1226,
+    "time": 1225,
     "timeDay": 1082,
     "timeWeek": 1392,
     "timeMonth": 1360,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2024-09-14": 6,
+      "2024-09-14": 0,
       "2023-12-18": 28
     }
   },
@@ -27,9 +27,9 @@
     "slug": "map",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 889,
     "timeDay": 723,
@@ -37,7 +37,6 @@
     "timeMonth": 909,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2024-09-14": 6,
       "2023-12-18": 28
     }
   },
@@ -46,19 +45,19 @@
     "url": "https://firmware.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/firmware.freifunk-suedholstein.de.ico",
     "slug": "firmware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 807,
+    "time": 808,
     "timeDay": 670,
     "timeWeek": 941,
     "timeMonth": 886,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-09-14": 5,
+      "2024-09-14": 0,
       "2023-12-18": 28
     }
   },
@@ -67,9 +66,9 @@
     "url": "https://install.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/install.freifunk-suedholstein.de.ico",
     "slug": "installer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -79,6 +78,7 @@
     "timeMonth": 899,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2023-12-18": 28
     }
   },
