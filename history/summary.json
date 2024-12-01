@@ -26,9 +26,9 @@
     "url": "https://map.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/map.freifunk-suedholstein.de.ico",
     "slug": "map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 819,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2024-12-01": 0,
       "2023-12-18": 28
     }
   },
@@ -89,9 +90,9 @@
     "url": "https://mail.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/mail.freifunk-suedholstein.de.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -101,6 +102,7 @@
     "timeMonth": 976,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-12-01": 0,
       "2023-12-18": 28
     }
   }
