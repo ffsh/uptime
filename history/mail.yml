@@ -1,7 +1,7 @@
 url: https://mail.freifunk-suedholstein.de
-status: up
-code: 200
-responseTime: 1030
-lastUpdated: 2025-04-21T23:20:53.754Z
+status: down
+code: 502
+responseTime: 927
+lastUpdated: 2025-04-22T15:51:10.741Z
 startTime: 2022-10-15T09:45:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
