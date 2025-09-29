@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/freifunk-suedholstein.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1248,
-    "timeDay": 1131,
-    "timeWeek": 1129,
-    "timeMonth": 1261,
-    "timeYear": 1226,
+    "time": 1247,
+    "timeDay": 1030,
+    "timeWeek": 1137,
+    "timeMonth": 1254,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2024-10-05": 29
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 847,
-    "timeWeek": 764,
-    "timeMonth": 882,
-    "timeYear": 860,
+    "timeDay": 713,
+    "timeWeek": 767,
+    "timeMonth": 879,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 836,
-    "timeWeek": 757,
-    "timeMonth": 845,
+    "timeDay": 680,
+    "timeWeek": 754,
+    "timeMonth": 841,
     "timeYear": 836,
     "dailyMinutesDown": {}
   },
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 847,
-    "timeWeek": 771,
-    "timeMonth": 822,
+    "time": 835,
+    "timeDay": 688,
+    "timeWeek": 770,
+    "timeMonth": 819,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2024-11-13": 17
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1041,
-    "timeDay": 1111,
-    "timeWeek": 976,
-    "timeMonth": 1108,
-    "timeYear": 1045,
+    "timeDay": 892,
+    "timeWeek": 981,
+    "timeMonth": 1102,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-06-04": 82
     }
