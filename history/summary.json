@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1240,
-    "timeDay": 1054,
-    "timeWeek": 1270,
-    "timeMonth": 1222,
-    "timeYear": 1233,
+    "timeDay": 1181,
+    "timeWeek": 1305,
+    "timeMonth": 1215,
+    "timeYear": 1232,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 860,
-    "timeDay": 694,
-    "timeWeek": 903,
-    "timeMonth": 847,
+    "timeDay": 702,
+    "timeWeek": 907,
+    "timeMonth": 839,
     "timeYear": 868,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
-    "timeDay": 727,
-    "timeWeek": 879,
-    "timeMonth": 831,
+    "timeDay": 773,
+    "timeWeek": 892,
+    "timeMonth": 826,
     "timeYear": 842,
     "dailyMinutesDown": {}
   },
@@ -64,14 +64,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 688,
-    "timeWeek": 897,
+    "time": 836,
+    "timeDay": 801,
+    "timeWeek": 917,
     "timeMonth": 818,
     "timeYear": 840,
-    "dailyMinutesDown": {
-      "2024-11-13": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mail",
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1044,
-    "timeDay": 873,
-    "timeWeek": 1129,
-    "timeMonth": 1051,
+    "timeDay": 997,
+    "timeWeek": 1148,
+    "timeMonth": 1048,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2025-06-04": 82
