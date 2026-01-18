@@ -22,19 +22,19 @@
     "url": "https://map.freifunk-suedholstein.de",
     "icon": "https://icons.duckduckgo.com/ip3/map.freifunk-suedholstein.de.ico",
     "slug": "map",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 858,
-    "timeDay": 625,
-    "timeWeek": 829,
-    "timeMonth": 877,
-    "timeYear": 871,
+    "timeDay": 869,
+    "timeWeek": 865,
+    "timeMonth": 884,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 20
     }
   },
   {
